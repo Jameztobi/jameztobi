@@ -1,16 +1,14 @@
 ### Hi there 👋
+I am software Developer and a bible teacher. 
 
-<!--
-**Jameztobi/jameztobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am very passionate about technology, theology & theatre.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on designing and executing a software for a healthcare toolkit that will give users a good experience when interacting with the toolkit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning more about Web Security and Architecture. 
+
+- 💬 Ask me about Web and Android Development
+
+- 📫 How to reach me: You can reach me on instragram and twitter. 
+
+- ⚡ Fun fact: I love to watch theatre plays. The feeling it gives me is so priceless. 
