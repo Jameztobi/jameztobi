@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am software Developer and a bible teacher. 
+-    I am software Developer and a bible teacher. 
 
-I am very passionate about technology, theology & theatre.
+-    I am very passionate about technology, theology & theatre.
 
 - 🔭 I’m currently working on designing and executing a software for a healthcare toolkit that will give users a good experience when interacting with the toolkit.
 
