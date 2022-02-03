@@ -1,5 +1,5 @@
 ### Hi there 👋
--    I am software Developer and a bible teacher. 
+-    I am software Developer and a masters in computing student. 
 
 -    I am very passionate about technology, theology & theatre.
 
