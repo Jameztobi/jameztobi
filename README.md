@@ -3,7 +3,7 @@
 
 -    I am very passionate about technology, theology & theatre.
 
-- 🔭 I’m currently working on designing and executing a software for a healthcare toolkit that will give users a good experience when interacting with the toolkit.
+- 🔭 I’m currently working on designing and executing healthcare software products.
 
 - 🌱 I’m currently learning more about Web Security and Architecture. 
 
